@@ -1,0 +1,8 @@
+{
+  "name": "@filip-taczkowski/id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:filip-taczkowski/id-generator.git",
+  "author": "Filip Taczkowski <filip.taczkowski@gmail.com>",
+  "license": "MIT"
+}
